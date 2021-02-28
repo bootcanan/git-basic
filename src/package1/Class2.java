@@ -6,6 +6,7 @@ public class Class2 {
 System.out.println("Hello world 2");
 		//Welcome to Git sessions
 //Lets do some more changes
+		//Here is an issue in the local variables
 	}
 
 }
